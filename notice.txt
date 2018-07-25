@@ -1,7 +1,7 @@
 {
-  "noticeMessage": "项目24小时后删除，感谢各位老铁的支持。",
-  "noticeTime": "2018年7月5日",
+  "noticeMessage": "撸窊撸已更新1.0.7，请及时升级。",
+  "noticeTime": "2018年7月25日",
   "noticeTitle": "公告",
   "noticeer": "Admin",
-  "versionCode": 0
+  "versionCode": 9
 }
