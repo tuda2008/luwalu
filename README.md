@@ -1,5 +1,7 @@
-预览效果
+<a href="https://github.com/tuda2008/luwalu_android/raw/master/apk/app-v1.0.7.apk" target="_blank">##直接下载 撸窊撸android v1.0.7</a>
 
+
+##预览效果
 
 ![image](https://github.com/tuda2008/luwalu/blob/master/image/video.jpeg?raw=true)
 ![image](https://github.com/tuda2008/luwalu/blob/master/image/picture.jpeg?raw=true)
@@ -9,7 +11,7 @@
 
 
 
-### 更新日志：
+##更新日志
 
 ------2018年7月22日 v1.0.7
 1. 通知的推送
