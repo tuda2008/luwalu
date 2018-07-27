@@ -1,9 +1,8 @@
 {
 "apkDownloadUrl": "https://raw.githubusercontent.com/tuda2008/luwalu/master/apk/app-v1.0.7.apk",
-"updateMessage": "1. 通知的推送\n
-                  2. 打赏功能\n
-                  3. 其他细小调整或者bug
+"updateMessage": "1. 图片支持花瓣\n
+                  2. 其他细小调整或者bug
 ",
-"versionCode": 8,
-"versionName": "1.0.7"
+"versionCode": 9,
+"versionName": "1.0.8"
 }
